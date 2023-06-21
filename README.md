@@ -1,5 +1,6 @@
 # CIFAR-10 Image Classification using CNN from scratch and transfer learning with 87% accuracy
 
+
 This repository contains code for performing image classification on the CIFAR-10 dataset using a Convolutional Neural Network (CNN) implemented in a Jupyter Notebook. The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 different classes, with 6,000 images per class.
 
 This project aims to demonstrate the process of building and training a CNN model to classify images into their respective classes.
@@ -53,6 +54,6 @@ The accuracy of the trained CNN model on the CIFAR-10 testing set is 87%. The de
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-```
 
+'''
 Please feel free to modify the README file as per your requirements and add any additional details or explanations about the project.
